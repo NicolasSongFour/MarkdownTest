@@ -41,3 +41,6 @@ console.log(date.getTime());
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+![][1]
+[1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
