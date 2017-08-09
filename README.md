@@ -19,9 +19,9 @@
 3. 文本3  
    
 ## Todo
-- [] Todo
+- [ ] Todo
 - [x] Todo
-- [] Todo   
+- [ ] Todo   
   
 ## 链接
 <s_constantine@yeah.net>  
