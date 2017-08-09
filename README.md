@@ -21,15 +21,10 @@
 3. 文本3  
 ---
   
-### Todo
-[] Todo
-[x] Todo
-[] Todo
-  
 ### 链接
 <s_constantine@yeah.net>  
-[NicolasSongFour](https://github.com/NicolasSongFour/test)  
----
+[NicolasSongFour](https://github.com/NicolasSongFour/test)  
+---   
 
 ### 图片
 ![动图](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/3.gif)
